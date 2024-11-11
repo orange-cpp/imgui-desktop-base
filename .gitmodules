@@ -1,0 +1,6 @@
+[submodule "extlibs/glfw"]
+	path = extlibs/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "extlibs/imgui"]
+	path = extlibs/imgui
+	url = https://github.com/ocornut/imgui.git
